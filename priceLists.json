@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "name": "Название 1",
+        "activationDate": "2013-02-08T05:31:26.000Z",
+        "expirationDate": "2013-02-09T05:30:26.000Z",
+        "statusId": 1,
+        "deliveryTypeId": 1,
+        "seller": {
+            "id": 145,
+            "name": "ООО \"Оранж\"",
+            "contractId": 567
+        },
+        "author": "nmaslakov@ozon.ru",
+        "services": [
+            {
+                "id": 1,
+                "name": "Фулфилмент",
+                "processingCost": 1234,
+                "volumeWeightRate": 10,
+                "minCost": 14,
+                "maxCost": 75,
+                "_XID": "row_2"
+            },
+            {
+                "id": 2,
+                "name": "Магистральная_перевозка_прямого_потока",
+                "pointShipment": "6048863967000",
+                "clusterDelivery": "Кластер Новосибирск",
+                "volumeWeightRate": 8,
+                "minCost": 54,
+                "maxCost": 32,
+                "_XID": "row_3"
+            },
+            {
+                "id": 3,
+                "name": "Последняя_миля",
+                "processingCost": 0.55,
+                "minCost": 167,
+                "maxCost": 324,
+                "_XID": "row_4"
+            },
+            {
+                "id": 4,
+                "name": "Обработка_возвратов(клиентский_возврат)",
+                "processingCost": 543,
+                "_XID": "row_5"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Название 2",
+        "activationDate": "2013-01-08T09:30:26",
+        "statusId": 1,
+        "deliveryTypeId": 1,
+        "author": "pupkin@ozon.ru"
+    },
+    {
+        "id": 3,
+        "name": "Название 3",
+        "activationDate": "2021-03-30T13:40:26",
+        "statusId": 2,
+        "deliveryTypeId": 2,
+        "author": "test@ozon.ru"
+    },
+    {
+        "id": 4,
+        "name": "Название 4",
+        "activationDate": "2014-03-30T09:30:26",
+        "statusId": 3,
+        "deliveryTypeId": 2,
+        "author": "test1@ozon.ru"
+    },
+    {
+        "id": 5,
+        "name": "Название 5",
+        "activationDate": "2013-03-08T09:30:26",
+        "statusId": 4,
+        "deliveryTypeId": 2,
+        "author": "test1@ozon.ru"
+    },
+    {
+        "id": 6,
+        "name": "Название 6",
+        "activationDate": "2013-02-09T09:30:26",
+        "statusId": 5,
+        "deliveryTypeId": 2,
+        "author": "test-3@ozon.ru"
+    },
+    {
+        "id": 7,
+        "name": "Название 7",
+        "activationDate": "2015-01-08T09:30:26",
+        "statusId": 6,
+        "deliveryTypeId": 2,
+        "author": "3test3@ozon.ru"
+    },
+    {
+        "name": "Название 8",
+        "activationDate": "2013-02-08T05:31:26.000Z",
+        "expirationDate": "2013-02-09T05:30:26.000Z",
+        "deliveryTypeId": 1,
+        "seller": {
+            "id": 2
+        },
+        "id": 8
+    },
+    {
+        "name": "22222",
+        "activationDate": "2021-04-30T21:00:00.000Z",
+        "expirationDate": "2021-04-20T21:00:00.000Z",
+        "deliveryTypeId": 1,
+        "seller": {
+            "id": 1
+        },
+        "id": 9
+    },
+    {
+        "id": 10,
+        "name": "Название 1",
+        "activationDate": "2013-02-08T05:31:26.000Z",
+        "expirationDate": "2013-02-09T05:30:26.000Z",
+        "statusId": 1,
+        "deliveryTypeId": 1,
+        "seller": {
+            "id": 145,
+            "name": "ООО \"Оранж\"",
+            "contractId": 567
+        },
+        "author": "nmaslakov@ozon.ru",
+        "services": [
+            {
+                "id": 1,
+                "name": "Фулфилмент",
+                "processingCost": 1234,
+                "volumeWeightRate": 10,
+                "minCost": 14,
+                "maxCost": 75,
+                "_XID": "row_2"
+            },
+            {
+                "id": 2,
+                "name": "Магистральная_перевозка_прямого_потока",
+                "pointShipment": "6048863967000",
+                "clusterDelivery": "Кластер Новосибирск",
+                "volumeWeightRate": 8,
+                "minCost": 54,
+                "maxCost": 32,
+                "_XID": "row_3"
+            },
+            {
+                "id": 3,
+                "name": "Последняя_миля",
+                "processingCost": 0.55,
+                "minCost": 167,
+                "maxCost": 324,
+                "_XID": "row_4"
+            },
+            {
+                "id": 4,
+                "name": "Обработка_возвратов(клиентский_возврат)",
+                "processingCost": 543,
+                "_XID": "row_5"
+            }
+        ]
+    }
+]
